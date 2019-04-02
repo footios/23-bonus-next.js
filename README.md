@@ -1,6 +1,6 @@
 [React 16.6 - The Complete Guide (incl. React Router & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/)
 
-> Section 22
+> Section 23
 
 > Bonus: Next.js
 
@@ -18,6 +18,7 @@ that is why Next is such a great package and could be worth a look in your next 
 A lot of stuff is just working out of the box there at the price of having to keep a certain file structure, that file structure is mostly about that pages folder,
 let's create it!
 
+* 
 
 Note:
 There was a problem with git `.gitignore` because I run `git init` before I added the `.gitignore`
