@@ -5,7 +5,7 @@ const authPage = () => {
     return ( 
         <div>
             <h1>The auth page</h1>
-            <User name='fotis' age={42} country='Greecr' />
+            <User name='fotis' age={42} country='Greece' occupation='none' />
         </div>
      );
 }
